@@ -12,7 +12,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
-    "@skills17/cypress-helpers": "^4.0.0",
+    "@skills17/cypress-helpers": "^4.1.0",
     "cypress": "^9.2.0"
   }
 }
